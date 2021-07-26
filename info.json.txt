@@ -1,10 +1,10 @@
-"name": "BUSD Token",
-    "website": "https://paxos.com/busd",
-    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
-    "explorer": "https://bscscan.com/token/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+"name": "NewChance",
+    "website": "http://newchancecoin.hu/",
+    "description": "NewChance charity token.",
+    "explorer": "https://bscscan.com/token/0x362eccb1f150f47643e6eec92a296f369d5edbef",
     "type": "BEP20",
-    "symbol": "BUSD",
-    "decimals": 18,
+    "symbol": "NCE",
+    "decimals": 9,
     "status": "active",
-    "id": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56"
+    "id": "0x362eccb1f150f47643e6eec92a296f369d5edbef"
 }
